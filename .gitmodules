@@ -1,0 +1,3 @@
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://gitee.com/ljy-code/hugo-tranquilpeak-theme.git
